@@ -1,0 +1,34 @@
+.parent-com{
+    width: 1300px;
+    border: 1px solid black;
+    text-align: center;
+    margin: 0 auto;
+    display: flex;
+}
+.contact-info{
+    background-color: rgb(3, 3, 117);
+    color: white;
+}
+.contact-info .contact-info-ul{
+    list-style: none;
+    text-align: left;
+}
+.contact-form{
+    
+}
+.contact-form-form{
+  text-align: left;
+  padding-left: 50px;
+  padding-bottom: 70px;
+}
+.contact-form-form .input{
+    width: 80%;
+    height: 60px;
+}
+.contact-form-form button{
+    display: block;
+    text-align: center;
+    background-color: rgb(3, 3, 105);
+    color: white;
+    border-radius: 10px;
+}
